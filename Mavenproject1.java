@@ -16,6 +16,8 @@ public class Mavenproject1 {
         int dinheiro = 100;
         Scanner entrada = new Scanner(System.in); 
         
+        System.out.println("Hello World");
+        System.out.println("Teste git commit");
         while (true) {
             System.out.println("\n=== Bem vindo ao meu restaurante! ===");
             System.out.println("Você tem atualmente " + dinheiro + " Reais.");
