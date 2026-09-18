@@ -1,0 +1,7 @@
+*.class
+*.log
+relatorio_mega_projeto_java.txt
+.idea/
+.nb-gradle/
+build/
+dist/
